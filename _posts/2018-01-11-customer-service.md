@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Inception Movie"
-author: john
+title:  "깃허브 존나 어렵다 ㅋㅋ"
+author: dunok
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "블로그를 깃허브로 만드는 것은 정말 어지러운 일이다"
 featured: true
 hidden: true
 rating: 4.5

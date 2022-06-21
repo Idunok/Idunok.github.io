@@ -2,8 +2,8 @@
 name: "거슬러가는혁"
 title: "Mediumish"
 description: "만든이 이준혁"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/gravatar.png'
+favicon: 'assets/images/blog_logo.png'
 baseurl: /mediumish-theme-jekyll
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -16,11 +16,11 @@ authors:
   dunok:
     name: 이준혁
     display_name: 이준혁
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    avatar: 'assets/images/profile_image.jpg'
     email: ljhk79513@gmail.com
     web: 
-    twitter: https://twitter.com/wowthemesnet
-    description: "04년생"
+    instagram: https://www.instagram.com/idunok_/
+    description: "04년생 Git 초보자"
   john:
     name: John
     display_name: John    
