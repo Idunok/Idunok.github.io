@@ -4,7 +4,7 @@ title: "이준혁 기록"
 description: "만든이 이준혁"
 logo: 'assets/images/blog_logo.png'
 favicon: 'assets/images/blog_logo.png'
-baseurl: /mediumish-theme-jekyll
+baseurl: 
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list:
