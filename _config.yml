@@ -1,7 +1,7 @@
 # Site
 name: "거슬러가는혁"
 title: "Mediumish"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "만든이 이준혁"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
@@ -13,14 +13,14 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  dunok:
+    name: 이준혁
+    display_name: 이준혁
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
+    email: ljhk79513@gmail.com
+    web: 
     twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    description: "04년생"
   john:
     name: John
     display_name: John    
