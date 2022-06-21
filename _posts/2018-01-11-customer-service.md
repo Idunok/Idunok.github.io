@@ -8,10 +8,10 @@ image: assets/images/11.jpg
 description: "블로그를 깃허브로 만드는 것은 정말 어지러운 일이다"
 featured: true
 hidden: true
-rating: 4.5
+rating:
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
+22년 6월 21일. 처음으로 블로그를 깃허브로 만들어보려고 하고 있다. 지금 쓴 이 글이 어떻게 적용되는지 확인할 필요가 있다.
 
 #### How to use?
 
