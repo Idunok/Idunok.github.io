@@ -1,7 +1,7 @@
 # Site
 name: "거슬러가는혁"
 title: "이준혁 기록"
-description: "만든이 이준혁"
+description: ""
 logo: 'assets/images/blog_logo.png'
 favicon: 'assets/images/blog_logo.png'
 baseurl: ''
@@ -18,7 +18,7 @@ authors:
     display_name: 이준혁
     avatar: 'assets/images/profile_image.jpg'
     email: ljhk79513@gmail.com
-    web: 
+    web: https://www.instagram.com/idunok_/
     instagram: https://www.instagram.com/idunok_/
     description: "04년생 Git 초보자"
   john:
