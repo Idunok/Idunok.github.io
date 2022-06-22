@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Bundler (Jekyll Tutorial)"
-author: sal
+author: dunok
 categories: [ Jekyll ]
 image: assets/images/2.jpg
 ---
