@@ -5,6 +5,7 @@ description: "19살부터 시작하는 Git"
 logo: 'assets/images/blog_logo.png'
 favicon: 'assets/images/blog_logo.png'
 baseurl: ''
+url: 'https://Idunok.github.io'
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 mailchimp-list:
